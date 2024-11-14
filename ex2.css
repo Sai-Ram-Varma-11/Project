@@ -1,0 +1,52 @@
+
+body {
+    background-color: black; 
+    color: white; /* Set text color to white for contrast */
+    font-family: Arial, sans-serif; /* Set font family */
+    margin: 0; /* Remove default margin */
+    padding: 20px; /* Add padding */
+}
+
+/* Header styles */
+header {
+    background-color: silver; /* Set header background to silver */
+    padding: 20px; /* Add padding */
+    text-align: center; /* Center align header content */
+}
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items inline */
+    margin: 0 15px; /* Add horizontal margin */
+}
+
+nav ul li a {
+    color: black; /* Set link color to black */
+    text-decoration: none; /* Remove underline from links */
+}
+
+/* Main content styles */
+main {
+    margin: 20px 0; /* Add margin to main content */
+}
+
+/* Heading styles */
+h1, h2, h3 {
+     /* Set background color for headings to silver */
+    color: blue; /* Set text color for headings to blue */
+    padding: 10px; /* Add padding to headings */
+}
+
+/* Footer styles */
+footer {
+
+    background-color: silver;
+    text-align: center; /* Center align footer content */
+    margin-top: 20px; /* Add top margin */
+    padding: 10px; /* Add padding */
+}
